@@ -95,8 +95,8 @@ It doesn't mean that it's easy. It doesn't mean that visualisation is used alone
 ::: {.column width=45%}
 
 - Intuitive explanation of a tour (and 18th century novel)
-- Construction of a tour
-- Connection to manifolds
+- Construction of a tour 
+- Connection to manifolds (and work at U.Adelaide)
 - Why?
 - Algorithms in the [tourr](http://ggobi.github.io/tourr/) package
 - New developments in recent years
@@ -110,7 +110,6 @@ It doesn't mean that it's easy. It doesn't mean that visualisation is used alone
     - dimension reduction
     - understanding clustering
     - comparing classification boundaries
-    - hypothesis tests (connection to U.Adelaide)
     - departures from multivariate normal
     - de-constructing neural network fits
     - ternary diagrams beyond 2D
